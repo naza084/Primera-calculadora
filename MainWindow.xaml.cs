@@ -11,14 +11,6 @@ namespace Primera_calculadora
     /// </summary>
     public partial class MainWindow : Window
     {
-        /*
-         Enunciado del ejercicio:
-
-         Crea una aplicación de calculadora básica en WPF que tenga una interfaz de usuario con botones numéricos (del 0 al 9)
-         y botones de operadores (+, -, *, /) junto con un cuadro de texto para mostrar y editar la entrada y el resultado.
-         Cuando los usuarios hagan clic en los botones numéricos y de operadores, se deben actualizar en consecuencia en el cuadro de texto.
-         */
-
 
         // Propiedades
         private double _num = 0;
@@ -38,11 +30,6 @@ namespace Primera_calculadora
         // Numeros
         private void Numero_Click(object sender, RoutedEventArgs e)
         {
-            /*
-             Para hacer esto, puedes aprovechar el hecho de que el evento Click proporciona información 
-             sobre el objeto que generó el evento (sender). En este caso, el sender será el botón que fue clicado.
-             esa seria una forma de hacerlo, aca lo hice de otra mucho mas sencilla xd
-             */
 
             // Verificamos si hay mensaje de error o si hay un cero
             if (textoNumero.Text.Contains("Error") || textoNumero.Text == "0")
@@ -92,14 +79,18 @@ namespace Primera_calculadora
             // Lista a usar
             char[] operadores = { '+', '-', 'x', '÷' };
 
+
             // Obtenemos el objeto boton
             Button botonOperador = (Button)sender;
+
 
             // Obtenemos el contenido del boton y accedemos al caracter
             string? contenidoBoton = botonOperador.Content.ToString();
 
+
             // Accedemos al ultimo caracter del texto
             char ultimoDigito = textoNumero.Text.Length > 0 ? textoNumero.Text[^1] : '\0';
+
 
             // Verificamos si hay mensaje de error
             if (textoNumero.Text.Contains("Error"))
