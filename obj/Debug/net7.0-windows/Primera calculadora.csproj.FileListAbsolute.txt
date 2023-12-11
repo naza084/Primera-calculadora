@@ -1,0 +1,20 @@
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\bin\Debug\net7.0-windows\Primera calculadora.exe
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\bin\Debug\net7.0-windows\Primera calculadora.deps.json
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\bin\Debug\net7.0-windows\Primera calculadora.runtimeconfig.json
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\bin\Debug\net7.0-windows\Primera calculadora.dll
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\bin\Debug\net7.0-windows\Primera calculadora.pdb
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\obj\Debug\net7.0-windows\Primera calculadora_MarkupCompile.cache
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\obj\Debug\net7.0-windows\Primera calculadora_MarkupCompile.lref
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\obj\Debug\net7.0-windows\Primera calculadora.g.resources
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\obj\Debug\net7.0-windows\Primera calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\obj\Debug\net7.0-windows\Primera calculadora.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\obj\Debug\net7.0-windows\Primera calculadora.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\obj\Debug\net7.0-windows\Primera calculadora.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\obj\Debug\net7.0-windows\Primera calculadora.dll
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\obj\Debug\net7.0-windows\refint\Primera calculadora.dll
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\obj\Debug\net7.0-windows\Primera calculadora.pdb
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\obj\Debug\net7.0-windows\Primera calculadora.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Programacion\C#\WPF\Ejercicios\Primera calculadora\Primera calculadora\obj\Debug\net7.0-windows\ref\Primera calculadora.dll
